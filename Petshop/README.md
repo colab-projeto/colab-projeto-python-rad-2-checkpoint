@@ -1,1 +1,0 @@
-Primeiro checkpoint do trablho com banco de dados e os codigos em python de cadastro de clientes para um petshop, a entrega vai conter uma interface grafica funcionando corretamente para marcar o horario e cada pet.

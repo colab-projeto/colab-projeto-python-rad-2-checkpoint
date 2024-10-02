@@ -1,3 +1,0 @@
-ID, Nome, Telefone, Email, Endereço
-1, João Silva, (21) 99999-9999, joao@example.com, Rua A
-2, Maria Souza, (21) 98888-8888, maria@example.com, Rua B

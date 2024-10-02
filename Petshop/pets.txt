@@ -1,3 +1,0 @@
-ID, Nome, Tipo, Raça, ID_Cliente
-1, Rex, Cachorro, Labrador, 1
-2, Mimi, Gato, Persa, 2
